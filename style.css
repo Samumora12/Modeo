@@ -1,0 +1,64 @@
+*{
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0%;
+}
+
+html{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-size: 18px;
+}
+
+header{
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+}
+
+nav{
+background-color: aqua;
+
+}
+
+main{
+    background-color: rgb(90, 90, 90);
+}
+
+body{
+  background-color: bisque;
+}
+
+
+footer{
+    background-color: aquamarine;
+    text-align: center; font-family: 'Times New Roman', Times, serif;
+
+}
+
+p{
+    text-align: justify;
+}
+
+.imagen{
+    width: 50%;
+     background-color: rgb(0, 0, 0);
+    /*  padding-top: 30px;
+     padding-bottom: 20px;
+     padding-left: 10px;
+     padding-right: 40px; */
+     padding: 30px 50px;
+     border: 3px solid rgb(9, 255, 214);
+/*      margin-top: 40px;
+     margin-bottom: 40px;
+     margin-right: 40;
+     margin-left: 40; */
+     margin: 40px auto;
+     outline: 7px double green;
+     box-shadow: 1px 1px 9px 9px rgb(255, 0, 0);
+}
+
+img{
+    width: 100%;
+    margin: auto;
+}
